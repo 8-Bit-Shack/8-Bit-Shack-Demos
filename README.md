@@ -23,27 +23,27 @@ website.
 
 | Title | Description | Download |
 |---|---|---|
-| **Halloween 2026 Demo** | Fun Halloween animation featuring a bouncing pumpkin inside a jar on your Apple II screen. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2026.zip) |
-| **Halloween 2024 Demo** | Animated tribute to *The Shining*, featuring iconic scenes and spooky music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2024.zip) |
-| **Christmas 2024 Demo** | Playful Christmas animation featuring dancing penguins and wintertime antics. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2024.zip) |
-| **Plenty of Fish (Fish Tank)** | Animated aquarium screensaver featuring swimming fish and scrolling graphics. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_fish_tank.zip) |
-| **Gothic Art** | Collection of atmospheric HIRES artwork featuring smooth page-flipping animation. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_gothic_art.zip) |
-| **New Year 2019 Demo** | Medieval adventure featuring Lord Edward of Wellington and Lord Adlington. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_nye_2020.zip) |
-| **Summer Demo 2022** | Humorous Star Wars-themed LORES animation set in Ibiza. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_summer_2022.zip) |
-| **Halloween 2021** | Halloween animation featuring Michael Jackson's *Thriller* with synchronized music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2021.zip) |
-| **Halloween 2020 Demo** | Collection of spooky pixel-art scenes accompanied by eerie music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2020.zip) |
-| **Christmas 2020 Demo** | Humorous Star Trek-inspired Christmas animation with an unmistakable 1980s flavor. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2020_trek.zip) |
-| **Christmas 2019 Demo (Knight's Tale)** | Medieval Christmas nativity adventure featuring Lord Edward of Wellington. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2019.zip) |
-| **Christmas 2022 Demo** | Medieval animated short showcasing double-LORES graphics and MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2022.zip) |
 | **Christmas 2019 Demo (Santa)** | Animated Santa and reindeer with falling snow, procedural scenery, and music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2018.zip) |
-| **Banana Vision** | Dancing banana animation inspired by the classic Apple II AppleVision demo. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_banana_vision.zip) |
+| **Christmas 2019 Demo (Knight's Tale)** | Medieval Christmas nativity adventure featuring Lord Edward of Wellington. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2019.zip) |
+| **Christmas 2020 Demo** | Humorous Star Trek-inspired Christmas animation with an unmistakable 1980s flavor. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2020_trek.zip) |
 | **XMAS 2020: Particle Simulation** | Double-LORES Galton board simulation featuring gravity, particles, and music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2020_particle.zip) |
+| **Christmas 2022 Demo** | Medieval animated short showcasing double-LORES graphics and MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2022.zip) |
+| **Christmas 2024 Demo** | Playful Christmas animation featuring dancing penguins and wintertime antics. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2024.zip) |
+| **New Year 2019 Demo** | Medieval adventure featuring Lord Edward of Wellington and Lord Adlington. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_nye_2020.zip) |
+| **Halloween 2020 Demo** | Collection of spooky pixel-art scenes accompanied by eerie music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2020.zip) |
+| **Halloween 2021** | Halloween animation featuring Michael Jackson's *Thriller* with synchronized music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2021.zip) |
+| **Halloween 2024 Demo** | Animated tribute to *The Shining*, featuring iconic scenes and spooky music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2024.zip) |
+| **Halloween 2026 Demo** | Fun Halloween animation featuring a bouncing pumpkin inside a jar on your Apple II screen. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_halloween_2026.zip) |
+| **Summer Demo 2022** | Humorous Star Wars-themed LORES animation set in Ibiza. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_summer_2022.zip) |
+| **3D Geometric Shape Demo** | Real-time 3D geometric graphics demonstrating classic 6502 rendering techniques. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_3d_render.zip) |
+| **Banana Vision** | Dancing banana animation inspired by the classic Apple II AppleVision demo. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_banana_vision.zip) |
 | **Fire Demo** | Animated fire simulation with dynamic masking, scrolling graphics, and music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_fire_rc1.zip) |
-| **Twister Demo** | Classic demoscene effect producing a twisting, three-dimensional spiral. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_twister.zip) |
+| **Gothic Art** | Collection of atmospheric HIRES artwork featuring smooth page-flipping animation. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_gothic_art.zip) |
 | **Lens Demo** | Moving lens distortion effect demonstrating double-LORES graphics techniques. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_lens_rc1.zip) |
+| **Plenty of Fish (Fish Tank)** | Animated aquarium screensaver featuring swimming fish and scrolling graphics. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_fish_tank.zip) |
 | **XMAS 2018 Demo (Rotozoomer)** | Fast 6502 assembly-language LORES rotation and zooming graphics effect. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_rotozoom_6502.zip) |
 | **3D Starfield Demo** | Immersive 3D starfield with rotation, perspective, and optional star trails. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_starfield.zip) |
-| **3D Geometric Shape Demo** | Real-time 3D geometric graphics demonstrating classic 6502 rendering techniques. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_3d_render.zip) |
+| **Twister Demo** | Classic demoscene effect producing a twisting, three-dimensional spiral. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_twister.zip) |
 
 ## Downloading & Using the Demos
 
