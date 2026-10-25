@@ -2,20 +2,28 @@
 
 Welcome to the **8-Bit Shack Demos & Animations** repository!
 
-This repository contains a collection of free Apple II demos, animations, visual effects, and technical experiments created and published by **8-Bit Shack** and its contributors.
+This repository contains a collection of free Apple II demos, animations,
+visual effects, and technical experiments created and published by
+**8-Bit Shack** and its contributors.
 
-These projects demonstrate the remarkable capabilities of the Apple II family, pushing classic hardware through creative programming, graphics, animation, and sound. From holiday-themed entertainment to sophisticated 3D graphics and particle simulations, many began with a simple question:
+These projects demonstrate the remarkable capabilities of the Apple II
+family, pushing classic hardware through creative programming, graphics,
+animation, and sound. From holiday-themed entertainment to sophisticated
+3D graphics and particle simulations, many began with a simple question:
 
 **"Can it be done?!"**
 
 All titles are available to download and enjoy for free.
 
-For additional information, screenshots, and technical documentation, visit the [8-Bit Shack Demos & Animations](https://www.8bitshack.net/8bitdemos) website.
+For additional information, screenshots, and technical documentation,
+visit the [8-Bit Shack Demos & Animations](https://www.8bitshack.net/8bitdemos)
+website.
 
 ## Available Demos
 
 | Title | Description |
 |---|---|
+| **Halloween 2026 Demo** | Fun Halloween animation featuring a bouncing pumpkin inside a jar on your Apple II screen. |
 | **Halloween 2024 Demo** | Animated tribute to *The Shining*, featuring iconic scenes and spooky music. |
 | **Christmas 2024 Demo** | Playful Christmas animation featuring dancing penguins and wintertime antics. |
 | **Plenty of Fish (Fish Tank)** | Animated aquarium screensaver featuring swimming fish and scrolling graphics. |
@@ -39,19 +47,25 @@ For additional information, screenshots, and technical documentation, visit the 
 
 ## Downloading & Using the Demos
 
-All demos in this repository are provided **free of charge for personal, educational, and other noncommercial use**.
+All demos in this repository are provided **free of charge for personal,
+educational, and other noncommercial use**.
 
 You are welcome to:
 
 - Download and enjoy the original demos.
 - Study the programming techniques and source code where available.
 - Experiment with and modify the software for personal use.
-- Share the original demos with others for noncommercial purposes, subject to the repository license.
-- Distribute modified versions under the conditions of the license, including source-code availability and proper attribution.
+- Share the original demos with others for noncommercial purposes,
+  subject to the repository license.
+- Distribute modified versions under the conditions of the license,
+  including source-code availability and proper attribution.
 
-**Commercial use, resale, or incorporation into commercial products is prohibited without prior written authorization from the applicable copyright holders.**
+**Commercial use, resale, or incorporation into commercial products is
+prohibited without prior written authorization from the applicable
+copyright holders.**
 
-Some demos may require specific Apple II hardware configurations, additional memory, or compatible sound cards such as the MockingBoard.
+Some demos may require specific Apple II hardware configurations,
+additional memory, or compatible sound cards such as the MockingBoard.
 
 Refer to the individual demo documentation for specific requirements.
 
@@ -61,31 +75,43 @@ We encourage experimentation and learning!
 
 If you modify and distribute any software from this repository, you must:
 
-1. Preserve the original 8-Bit Shack copyright and attribution notices, along with applicable individual contributor credits.
-2. Clearly identify your modifications and distinguish your work from the original release.
-3. Make the complete corresponding source code of your modified version available to recipients.
+1. Preserve the original 8-Bit Shack copyright and attribution notices,
+   along with applicable individual contributor credits.
+2. Clearly identify your modifications and distinguish your work
+   from the original release.
+3. Make the complete corresponding source code of your modified
+   version available to recipients.
 4. Distribute your modifications under the same noncommercial license.
-5. Never represent a modified version as an official 8-Bit Shack release without authorization.
+5. Never represent a modified version as an official 8-Bit Shack
+   release without authorization.
 
 Private modifications do not require publication of their source code.
 
 ## License
 
-This repository is distributed under the **8-Bit Shack Noncommercial Source License, Version 1.0**.
+This repository is distributed under the
+**8-Bit Shack Noncommercial Source License, Version 1.0**.
 
-The license permits free noncommercial use, modification, and redistribution while requiring attribution and source-code availability for distributed modified versions.
+The license permits free noncommercial use, modification, and
+redistribution while requiring attribution and source-code availability
+for distributed modified versions.
 
 **Commercial use is not permitted without prior written authorization.**
 
 See the [LICENSE.md](LICENSE.md) file for the complete license terms.
 
-The license applies only to materials identified as covered by it. Third-party components, artwork, music, and other materials may have separate licensing requirements.
+The license applies only to materials identified as covered by it.
+Third-party components, artwork, music, and other materials may have
+separate licensing requirements.
 
 ## About 8-Bit Shack
 
-**8-Bit Shack** is dedicated to developing and publishing new software, games, demonstrations, and enhancements for classic 8-bit computers.
+**8-Bit Shack** is dedicated to developing and publishing new software,
+games, demonstrations, and enhancements for classic 8-bit computers.
 
-Our mission is to keep these remarkable machines relevant, entertaining, and accessible to both longtime enthusiasts and new generations of programmers.
+Our mission is to keep these remarkable machines relevant, entertaining,
+and accessible to both longtime enthusiasts and new generations of
+programmers.
 
 Explore more projects at **[www.8bitshack.net](https://www.8bitshack.net)**.
 
@@ -93,4 +119,5 @@ Explore more projects at **[www.8bitshack.net](https://www.8bitshack.net)**.
 
 ---
 
-Copyright © 8-Bit Shack and respective contributors. All rights reserved except as expressly licensed.
+Copyright © 8-Bit Shack and respective contributors.
+All rights reserved except as expressly licensed.
