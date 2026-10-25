@@ -1,0 +1,77 @@
+  ___         ____  _ _         ____  _                _
+ ( _ )       | __ )(_) |_      / ___|| |__   __ _  ___| | __
+ / _ \  _____|  _ \| | __|     \___ \| '_ \ / _` |/ __| |/ /
+| (_) ||_____| |_) | | |_       ___) | | | | (_| | (__|   <
+ \___/       |____/|_|\__|     |____/|_| |_|\__,_|\___|_|\_\
+
+==============================================================================
+DEMO TITLE : New Year 2020 Demo
+DEMO NAME  : nye_2020
+FOLDER     : demo_nye_2020
+==============================================================================
+
+ABOUT
+-----
+Medieval adventure featuring Lord Edward of Wellington and Lord Adlington ("A
+Cock & Bull New Year's Tale").
+
+FILES REVIEWED
+--------------
+demo_nye_2020.dsk (ProDOS volume /NEWYEARDEMO2020): STARTUP, COPYRIGHT,
+F.NEWYEAR (frames), S.NEWYEAR, S.CHARSET0, SD18, GROOT.0.5, GRINTERP.0.2X,
+HODGEPODGE, music files M.*.
+
+ATTRIBUTION
+-----------
+  * "A Cock & Bull New Year's Tale" by Dan Henderson and Sellam Abraham, 2020.
+  * All machine code written by Sellam Abraham, copyright (C) 2020 by Sellam
+    Abraham.
+  * All artwork created by Dan Henderson, copyright (C) 2020 by Dan Henderson.
+  * Graphics routines (GROOT, GRINTERP, HODGEPODGE): Sellam Abraham.
+  * Electric Duet music player: by Paul Lutus, (C) 1982 (credited in the
+    disk's own text as "courtesy of Paul Lutus").
+  * Paul Lutus has released the Electric Duet player routine under the GNU
+    General Public License.
+
+MUSIC
+-----
+  * Tanu Song, Carnival, Jesu Joy and Auld Lang Syne: public-domain
+    arrangements.
+  * "Jesu, Joy of Man's Desiring" is by J.S. Bach; "Auld Lang Syne" is a
+    traditional Scottish song with words by Robert Burns.
+
+THIRD-PARTY SOFTWARE / MATERIAL
+-------------------------------
+  * Apple ProDOS operating-system files on the disk image belong to Apple
+    Computer, Inc.
+
+SOURCE OWNER AND USAGE (RECAP OF THE REPOSITORY README)
+-------------------------------------------------------
+This demo is part of the 8-Bit Shack "Demos & Animations" repository
+(https://github.com/8-Bit-Shack/Demos). Source owner: 8-Bit Shack and its
+contributors. Copyright (C) 8-Bit Shack and respective contributors. All
+rights reserved except as expressly licensed.
+
+Usage (from the repository README): free of charge for personal, educational
+and other noncommercial use. You may download and enjoy the demos, study the
+techniques and source, experiment with and modify them for personal use, and
+share the original demos for noncommercial purposes subject to the license.
+
+If you distribute a modified version you must: (1) keep the original 8-Bit
+Shack copyright and attribution notices and individual contributor credits;
+(2) clearly mark your modifications; (3) make the complete corresponding
+source available; (4) use the same noncommercial license; (5) never present a
+modified version as an official 8-Bit Shack release. Private modifications
+need not be published.
+
+Commercial use, resale or incorporation into commercial products is prohibited
+without prior written authorization from the copyright holders.
+
+License: 8-Bit Shack Noncommercial Source License, Version 1.0 (see LICENSE.md
+at the repo root). It applies only to materials identified as covered by it;
+third-party components, artwork, music and other materials may carry separate
+licensing, and the third-party items listed above are not relicensed by 8-Bit
+Shack.
+
+More: https://www.8bitshack.net and https://www.8bitshack.net/8bitdemos
+
