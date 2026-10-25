@@ -5,15 +5,14 @@
  \___/       |____/|_|\__|     |____/|_| |_|\__,_|\___|_|\_\
 
 ==============================================================================
-DEMO TITLE : X-mas Demo 2018 (Santa and Reindeer)
+DEMO TITLE : Christmas 2018 Demo (Animation)
 DEMO NAME  : xmas_2018
 FOLDER     : demo_xmas_2018
 ==============================================================================
 
 ABOUT
 -----
-Animated Santa and reindeer with falling snow, procedural scenery and
-MockingBoard music.
+Christmas animation with MockingBoard music.
 
 FILES REVIEWED
 --------------
