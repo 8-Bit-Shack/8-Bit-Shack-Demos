@@ -23,7 +23,7 @@ website.
 
 | Title | Description | Download |
 |---|---|---|
-| **Christmas 2019 Demo** | Medieval Christmas nativity adventure featuring Lord Edward of Wellington. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2019.zip) |
+| **Christmas 2018 Demo (Animation)** | Christmas animation with MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2018.zip) |
 | **Christmas 2020 Demo (Star Trek)** | Humorous Star Trek-inspired Christmas animation with an unmistakable 1980s flavor. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2020_trek.zip) |
 | **XMAS 2020 Demo (Particle Simulation)** | Double-LORES Galton board simulation featuring gravity, particles, and music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2020_particle.zip) |
 | **Christmas 2022 Demo (A Knights Tale)** | Medieval animated short showcasing double-LORES graphics and MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/Demos/releases/latest/download/demo_xmas_2022.zip) |
