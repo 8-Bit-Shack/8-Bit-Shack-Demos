@@ -5,9 +5,9 @@
  \___/       |____/|_|\__|     |____/|_| |_|\__,_|\___|_|\_\
 
 ==============================================================================
-DEMO TITLE : 3D Geometric Shape Demo
-DEMO NAME  : 3d_render
-FOLDER     : demo_3d_render
+DEMO TITLE : 3D - Geometric Shape Demo
+DEMO NAME  : 3d_geometric_shape
+FOLDER     : demo_3d_geometric_shape
 ==============================================================================
 
 ABOUT

@@ -34,7 +34,7 @@ website.
 | **Halloween 2024 (The Shining) Demo** | Animated tribute to *The Shining*, featuring iconic scenes and spooky music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_halloween_2024.zip) |
 | **Halloween 2026** | Fun Halloween animation featuring a bouncing pumpkin inside a jar on your Apple II screen. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_halloween_2026.zip) |
 | **Summer Demo 2022 (Star Wars)** | Humorous Star Wars-themed LORES animation set in Ibiza. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_summer_2022.zip) |
-| **3D Render Demo** | Real-time 3D geometric graphics demonstrating classic 6502 rendering techniques. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_3d_render.zip) |
+| **3D - Geometric Shape Demo** | Real-time 3D geometric graphics demonstrating classic 6502 rendering techniques. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_3d_geometric_shape.zip) |
 | **Banana Vision** | Dancing banana animation inspired by the classic Apple II AppleVision demo. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_banana_vision.zip) |
 | **Fire Demo** | Animated fire simulation with dynamic masking, scrolling graphics, and music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_fire_rc1.zip) |
 | **Gothic Art** | Collection of atmospheric HIRES artwork featuring smooth page-flipping animation. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_gothic_art.zip) |
