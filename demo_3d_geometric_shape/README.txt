@@ -21,7 +21,7 @@ A YouTube video showing the demo can be found here: https://www.youtube.com/watc
 FILES REVIEWED
 --------------
 PLOT3D.S (6502 assembly source), PLOT3D_REL.dsk (DOS 3.3 disk: PLOT3D8
-program, OBJECT1-5.3D data, tables, Applesoft table-builders), README.md,
+program, OBJECT1-5.3D data, tables, Applesoft table-builders),
 images/ (6 JPEG screenshots).
 
 ATTRIBUTION
