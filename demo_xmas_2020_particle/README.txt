@@ -38,7 +38,7 @@ THIRD-PARTY SOFTWARE / MATERIAL
 SOURCE OWNER AND USAGE (RECAP OF THE REPOSITORY README)
 -------------------------------------------------------
 This demo is part of the 8-Bit Shack "Demos & Animations" repository
-(https://github.com/8-Bit-Shack/Demos). Source owner: 8-Bit Shack and its
+(https://github.com/8-Bit-Shack/8-Bit-Shack-Demos). Source owner: 8-Bit Shack and its
 contributors. Copyright (C) 8-Bit Shack and respective contributors. All
 rights reserved except as expressly licensed.
 

@@ -12,7 +12,7 @@ FOLDER     : demo_xmas_2018
 
 ABOUT
 -----
-Christmas animation with MockingBoard music.
+Christmas themed rotozoomer animation with Mockingboard music.
 
 FILES REVIEWED
 --------------
@@ -37,7 +37,7 @@ MUSIC
 SOURCE OWNER AND USAGE (RECAP OF THE REPOSITORY README)
 -------------------------------------------------------
 This demo is part of the 8-Bit Shack "Demos & Animations" repository
-(https://github.com/8-Bit-Shack/Demos). Source owner: 8-Bit Shack and its
+(https://github.com/8-Bit-Shack/8-Bit-Shack-Demos). Source owner: 8-Bit Shack and its
 contributors. Copyright (C) 8-Bit Shack and respective contributors. All
 rights reserved except as expressly licensed.
 
@@ -63,4 +63,3 @@ licensing, and the third-party items listed above are not relicensed by 8-Bit
 Shack.
 
 More: https://www.8bitshack.net and https://www.8bitshack.net/8bitdemos
-
