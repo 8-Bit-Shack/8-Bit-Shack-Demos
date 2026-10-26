@@ -16,6 +16,8 @@ Real-time 3D geometric graphics (rotating wireframe objects, joystick/keyboard
 control) demonstrating classic 6502 rendering techniques. Source for version
 1.61 (May 2017).
 
+A YouTube video showing the demo can be found here: https://www.youtube.com/watch?v=-JlC1pkmFg0
+
 FILES REVIEWED
 --------------
 PLOT3D.S (6502 assembly source), PLOT3D_REL.dsk (DOS 3.3 disk: PLOT3D8
@@ -60,4 +62,3 @@ licensing, and the third-party items listed above are not relicensed by 8-Bit
 Shack.
 
 More: https://www.8bitshack.net and https://www.8bitshack.net/8bitdemos
-
