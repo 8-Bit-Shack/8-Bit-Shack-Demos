@@ -24,10 +24,12 @@ website.
 | Title | Description | Download |
 |---|---|---|
 | **Christmas 2018 Demo (Animation)** | Christmas themed rotozoomer animation with Mockingboard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2018.zip) |
+| **Christmas 2019 Demo** | Animated Santa and reindeer sled over a snowy mountain landscape in HIRES graphics, with snowfall and MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2019.zip) |
 | **Christmas 2020 Demo (Star Trek)** | Humorous Star Trek-inspired Christmas animation with an unmistakable 1980s flavor. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2020_trek.zip) |
 | **XMAS 2020 Demo (Particle Simulation)** | Double-LORES Galton board simulation featuring gravity, particles, and music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2020_particle.zip) |
 | **Christmas 2022 Demo (A Knights Tale)** | Medieval animated short showcasing double-LORES graphics and MockingBoard music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2022.zip) |
 | **Christmas 2024 (Penguins) Demo** | Playful Christmas animation featuring dancing penguins and wintertime antics. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2024.zip) |
+| **Christmas 2026 Demo** | Santa drops parcels while winds blow the snow, with shooting stars, a snowman, a snow globe shake and a fireworks finale. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_xmas_2026.zip) |
 | **New Year 2020 Demo** | Medieval adventure featuring Lord Edward of Wellington and Lord Adlington. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_nye_2020.zip) |
 | **Halloween 2020 Demo (Musical Slideshow)** | Collection of spooky pixel-art scenes accompanied by eerie music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_halloween_2020.zip) |
 | **Halloween 2021 (Thriller)** | Halloween animation featuring Michael Jackson's *Thriller* with synchronized music. | [ZIP](https://github.com/8-Bit-Shack/8-Bit-Shack-Demos/releases/latest/download/demo_halloween_2021.zip) |
